@@ -1,5 +1,39 @@
 {
   "code-runner.executorMap": {
     "typescript": "npx ts-node --files --transpile-only",
-  }
+  },
+  "cSpell.words": [
+    "Adoração",
+    "Arquidiocese",
+    "atual",
+    "Basílica",
+    "Brasília",
+    "comunicaçã",
+    "Cristo",
+    "Cuiabá",
+    "Eucaristia",
+    "Família",
+    "formated",
+    "Gerais",
+    "Goiânia",
+    "Goiás",
+    "Grosso",
+    "José",
+    "Mato",
+    "Minas",
+    "Morais",
+    "nossa",
+    "Nossa",
+    "pároco",
+    "Paróquia",
+    "Paulo",
+    "Perpétua",
+    "pertencente",
+    "Sagrada",
+    "Sant'Ana",
+    "Santíssima",
+    "Santuário",
+    "Várzea",
+    "Vossa"
+  ]
 }
